@@ -1,5 +1,5 @@
 {
-    "name": "myku",
+    "name": "kuhero",
     "description": "v2ray websocket proxy on heroku",
     "keywords": ["v2ray vmess vless trojan shadowsocks socks tor"],
     "env": {
